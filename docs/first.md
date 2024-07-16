@@ -1,5 +1,6 @@
+---
 layout: page
 title: "My First Page"
-permalink: /home
+permalink: home
 ---
 This is my first page for the github pages
