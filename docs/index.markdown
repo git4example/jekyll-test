@@ -5,4 +5,5 @@
 layout: home
 ---
 
-This is my site for the github pages
+
+This is my landing page
